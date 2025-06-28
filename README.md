@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I'm Yaren Can Akinci
 
-<!--
-**Y-Akinci/Y-Akinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business AI student at FHNW  
 
-Here are some ideas to get you started:
+## Projects (from university modules)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Startup Classifier** – predicted startup acquisition (ML module)  
+- **Fitness Recommender** – built using Prolog, decision tables & ontologies  
+- **Relational DB** – designed ERD & SQL queries based on user stories  
+- **Hotel Booking App** – OOP Python project with UML & layered structure
+
+## Tech stack
+
+Python • SQL • Prolog • Git • Markdown
+
+> Not all projects are public yet – work in progress.
+
